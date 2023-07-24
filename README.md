@@ -1,5 +1,5 @@
 <p align="center" width="300">
-   <img align="center" width="200" src="img/user.jpg" />
+   <img align="center" width="200" src="img/user.png" />
    <h3 align="center">¡Hey 👋! Soy AlexOtk 👨🏻‍💻</h3>
 </p>
 
